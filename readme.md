@@ -1,6 +1,3 @@
-					Assignment 2
-
-
 # General:
 
 From ES21BTECH11017_Assignment2.zip, copy basic and star folders and place them at /home/p4/tutorials/exercises
