@@ -1,6 +1,7 @@
 # General:
 
-From ES21BTECH11017_Assignment2.zip, copy basic and star folders and place them at /home/p4/tutorials/exercises
+Install p4 on Hypervisor like Oracle Virtual box
+copy basic and star folders and place them at /home/p4/tutorials/exercises
 
 Since IP addresses of h1 (10.0.1.1), h2 (10.0.1.2) have fixed set of IP Addresses, so I had diectly fixed the IP's in client.py and server.py files in basic folder so that inorder to not enter IP Addresses for each and every request.
 
